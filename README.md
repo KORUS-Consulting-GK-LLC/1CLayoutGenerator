@@ -9,7 +9,7 @@
 
 ## Хочу просто пользоваться
 
-**[Скачать переносимый пакет 1.1.0](https://github.com/Stakkkkk/1CLayoutGenerator/raw/refs/heads/main/downloads/1c-form-mockup-1.1.0.zip)**
+**[Скачать переносимый пакет 1.1.0](https://github.com/KORUS-Consulting-GK-LLC/1CLayoutGenerator/raw/refs/heads/main/downloads/1c-form-mockup-1.1.0.zip)**
 · [Инструкция для агента](skills/1c-form-mockup/AGENT-INSTALL.md)
 · [Команды и примеры](skills/1c-form-mockup/references/usage.md)
 
@@ -26,7 +26,7 @@ MCP, ключи моделей и зависимости от конкретно
 ## Попробовать без установки
 
 ```text
-git clone https://github.com/Stakkkkk/1CLayoutGenerator.git
+git clone https://github.com/KORUS-Consulting-GK-LLC/1CLayoutGenerator.git
 cd 1CLayoutGenerator
 python layout.py demo
 ```
