@@ -1,0 +1,83 @@
+{
+  "format": "1c-form-mockup-1",
+  "configuration": "demo",
+  "owner": "Documents.ПримерЗаказа",
+  "form": "ФормаДокумента",
+  "title": "Заказ — демонстрационный макет",
+  "product": "1С:Пример",
+  "profile_report": null,
+  "layout": "Synthetic example, not an existing infobase form",
+  "command_bar": [
+    {
+      "type": "Button",
+      "name": "Write",
+      "title": "Записать",
+      "default": true
+    }
+  ],
+  "items": [
+    {
+      "type": "InputField",
+      "name": "Клиент",
+      "title": "Клиент",
+      "choice": true
+    },
+    {
+      "type": "Pages",
+      "name": "Страницы",
+      "items": [
+        {
+          "type": "Page",
+          "name": "Основное",
+          "title": "Основное",
+          "items": [
+            {
+              "type": "Table",
+              "name": "Товары",
+              "title": "Товары",
+              "header": true,
+              "columns": [
+                {
+                  "type": "InputField",
+                  "name": "Номенклатура",
+                  "title": "Номенклатура"
+                },
+                {
+                  "type": "InputField",
+                  "name": "Цена",
+                  "title": "Цена"
+                },
+                {
+                  "type": "InputField",
+                  "name": "new_Скидка",
+                  "title": "Скидка, %",
+                  "new": true,
+                  "note": "Новая колонка для обсуждения"
+                }
+              ],
+              "commands": [
+                {
+                  "type": "Button",
+                  "name": "Добавить",
+                  "title": "Добавить"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Page",
+          "name": "Доставка",
+          "title": "Доставка",
+          "items": [
+            {
+              "type": "InputField",
+              "name": "Адрес",
+              "title": "Адрес доставки"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

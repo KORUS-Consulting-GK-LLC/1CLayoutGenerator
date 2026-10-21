@@ -1,0 +1,22 @@
+{
+  "name": "1c-form-mockup",
+  "version": "1.1.0",
+  "files": {
+    "AGENT-INSTALL.md": "c7ed7673d69c7e70346e3a1434d991e2bf6b17aad40e6e73695b63af63d4abce",
+    "agents/openai.yaml": "03660253c20ce6f24ff26703be851d6386c34e543f7e4eb54d8ec68be9ecae26",
+    "assets/example.data.json": "1e0e03e33f6bc72bebfd8dc2c6b004b3c700e22467af305e71f17231b6d606d3",
+    "assets/example.form.json": "4ad3408a40c436add26042fd2b162ea495242d5d88e1b798fb81eb281414b0b3",
+    "NOTICE.md": "9db5aceaee13b6baaaa4e7f08809307786db4de957feacc54fa9081213d0f35c",
+    "ORIGIN.json": "0bcd871755ebb7f12929ad031a309a6737af25f159d38091979d0869a1d0521e",
+    "README.md": "e19f75734e77524eab63f95d2c46db94bffc18f1c27fca02ed387be83eea8d02",
+    "references/form-elements.md": "e84367e3305b8bee1ef9975e836a565bf4772c289b82d012e9bc0f7b4911ceb2",
+    "references/usage.md": "7ad4a763406f3389b760c4238ddaa94f28c5c7af86af4a40625e638d93348d95",
+    "scripts/capture_profile.js": "998c35fec51fd2fc9a18df8e1a4251a3b2ea5dad049e00e755b1433b52986578",
+    "scripts/form_html.py": "8137dba70a7e9a8d0ec8a5f0a1204736fb27ca0c897cc36609662ea9ef2b624a",
+    "scripts/verify_package.py": "9978d1d074a28ac61ecf7a72e0b0075a0db8911aff8ea84816eb96e33993c892",
+    "SKILL.md": "ec310ee6813951eeee4798b8e535ca46723897566d405c6fa1a5449b28b13072",
+    "tests/test_form_html.py": "b47562fcd791466784236433795c9dfcff97734720a0d08a6ede9939bc1d3ef1",
+    "tests/test_portability.py": "d1295b1947b3d3c648044fe6043fcf11cab382209c7e7a426cff8b1ca460bcf0",
+    "tests/test_review.py": "2e323859e83aa74f3cb979d4f20d1384e7626809061805646a915f0ec2277118"
+  }
+}

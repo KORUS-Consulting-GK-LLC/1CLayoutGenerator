@@ -1,0 +1,23 @@
+{
+  "commit": "ec9e5f92d27cc50fbefe22f4c81ddca935de1588",
+  "component": "ui-mockup",
+  "extracted_on": "2026-10-21",
+  "source_files": {
+    "scripts/form_html.py": "9e534e7d6ec1d0167748f0f8abe8b6be80121c359e3d142d361fa3616617d734",
+    "scripts/capture_profile.js": "5de64c5ea07cb4d1b048c16bb34f6297dd79d3a86b8f9866b8b81d5c6c5aa8b7",
+    "references/form-elements.md": "feab515a4ef2e74260cbf6ede3ee58bda365caa9713f59dac6bc6c50b8ae5c4b",
+    "tests/test_form_html.py": "a7930d0caf214e36d29e7523b7653979d4650cb2da361bc68d4d87134f1d9c9b"
+  },
+  "changes": [
+    "configuration scope independent of LUIS",
+    "workspace-bound explicit/inferred dump and profiles",
+    "neutral application shell",
+    "no customer profiles or SPPR/Word workflow",
+    "opt-in browser tests",
+    "file URI via pathlib for POSIX/Windows",
+    "JSON BOM support and closed handles",
+    "synthetic examples, integrity verifier, relocation backend tests",
+    "standalone repository and installers",
+    "reviewed input/output/PNG/manifest error handling"
+  ]
+}

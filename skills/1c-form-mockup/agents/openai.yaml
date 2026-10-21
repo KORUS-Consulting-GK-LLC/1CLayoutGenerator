@@ -1,0 +1,4 @@
+interface:
+  display_name: "1C Form Mockup"
+  short_description: "Интерактивные HTML-макеты управляемых форм 1С"
+  default_prompt: "Используй $1c-form-mockup для создания HTML-макета формы 1С по XML-выгрузке."

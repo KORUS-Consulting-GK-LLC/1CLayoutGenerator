@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+mockups/
+.1c-form-mockup/
+.env
+.dev.env
+*.log
+*.tmp
